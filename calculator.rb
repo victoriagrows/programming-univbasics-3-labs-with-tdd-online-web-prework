@@ -2,4 +2,4 @@
 
 first_number = 10
 second_number = 5
-sum = 
+sum = (first_number + second_number)
